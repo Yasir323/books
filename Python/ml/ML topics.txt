@@ -1,0 +1,9 @@
+Tutorials to libraries: Jake VanderPlas - Python Data Science Handbook. Essential Tools for Working with Data-O'Reilly Media (2016)
+
+Basic Math and ML concepts implementation in Python: Data Science from Scratch- First Principles with Python
+
+In Depth Concepts and best explanation: Hands on Machine Learning with Scikit Learn and TensorFlow_2
+
+Beginner level concepts without math: Introduction to Machine Learning with Python
+
+Deep learning concepts only: Deep Learning with Python_Chollet
